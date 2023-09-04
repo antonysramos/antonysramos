@@ -12,5 +12,5 @@ I'm a Web Developer and UX/UI Designer
 
 
 ######  Contact
--Email: antonysouzar@hotmail.com
--Linkedin: linkedin.com/in/antony-ramos-b5bb12284
+- Email: antonysouzar@hotmail.com
+- Linkedin: linkedin.com/in/antony-ramos-b5bb12284
